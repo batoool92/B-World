@@ -1,0 +1,73 @@
+.SelectedBook {
+    max-width: 24%;
+    /* border: 1px solid black; */
+    margin-bottom: 3rem;
+}
+
+.BookImg {
+    max-width: 100%;
+    width: 100%;
+    height: 23rem;
+    object-fit: cover;
+}
+
+.AuthorName {
+    color: var(--Black, #0F0F0F);
+    font-size: 0.9rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.50206rem;
+    margin-bottom: 0.75rem;
+}
+
+.BookDetailsContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.7rem;
+}
+
+.NumOfPages {
+    color: var(--Black, #0F0F0F);
+    font-size: 0.8rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.50206rem;
+}
+
+.NumOfPagesContainer {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+}
+
+.RatingContainer {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+}
+
+.RatingNum {
+    color: var(--Black, #0F0F0F);
+    font-family: Inter;
+    font-size: 0.8rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.50206rem;
+}
+
+.ShowBookDetailsBtn {
+    width: 100%;
+    max-width: 100%;
+    padding: 0.5rem 0rem;
+    border-radius: 0.12519rem;
+    background: var(--Primary, #937DC2);
+    border: none;
+    color: var(--White, #FFF);
+    font-family: Inter;
+    font-size: 0.8rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.50206rem;
+    cursor: pointer;
+}

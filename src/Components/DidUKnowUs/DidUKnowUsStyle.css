@@ -1,0 +1,94 @@
+.DidUKnowUs {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 100%;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-bottom: 6rem;
+}
+
+.DidUKnowUsFpart {
+    padding-top: 2rem;
+    width: 40%;
+    max-width: 40%;
+}
+
+.DidUKnowUSTitle {
+    color: var(--Black, #0F0F0F);
+    font-family: Inter;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.DidUKnowUSText {
+    color: var(--Black, #0F0F0F);
+    text-align: justify;
+    font-family: Inter;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.50206rem;
+    margin-bottom: 3rem;
+}
+
+.YourName {
+    width: 100%;
+    max-width: 100%;
+    height: 2rem;
+    color: black;
+    font-family: Inter;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.50206rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.2rem;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgba(147, 125, 194, 0.60);
+}
+
+.YourEmail {
+    width: 100%;
+    max-width: 100%;
+    height: 2rem;
+    color: black;
+    font-family: Inter;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.50206rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0.2rem;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgba(147, 125, 194, 0.60);
+}
+
+.SubscribBtn {
+    width: 100%;
+    max-width: 100%;
+    padding: 0.75rem 2rem;
+    color: white;
+    font-family: Inter;
+    border-radius: 0.18775rem;
+    background: var(--Primary, #937DC2);
+    border: none;
+    cursor: pointer;
+}
+
+.DidUKnowUsSpart {
+    width: 50%;
+    max-width: 50%;
+   
+}
+.map {
+    width:100%;
+    max-width: 100%;
+    height: 100%;
+    max-height: 100%;
+}

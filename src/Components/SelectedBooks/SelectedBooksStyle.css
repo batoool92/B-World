@@ -1,0 +1,20 @@
+.SelectedBooksContainer {
+    padding: 5rem 4.5rem;
+}
+
+.selectedBooksText {
+    color: var(--Black, #0F0F0F);
+    font-family: Inter;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 3rem;
+    text-transform: capitalize;
+    margin-bottom: 2.5rem;
+}
+.SelectedBooks {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

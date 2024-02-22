@@ -1,0 +1,17 @@
+.footer {
+    color: var(--Black, #0F0F0F);
+    font-family: Inter;
+    font-size: 0.8rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.50206rem;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.footerLine {
+    background: #937DC2;
+    width: 100%;
+    max-width: 100%;
+}
